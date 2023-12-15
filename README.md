@@ -21,7 +21,7 @@ This is one of the first websites I created.
 
 ## Visit Site
 
-----
+https://mikala773.github.io/off-platform-project-tea-cozy/
 
 ## Contact
 
