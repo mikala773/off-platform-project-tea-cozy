@@ -4,12 +4,13 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 
 ## Overview
 
-Welcome to the Off-Platform Project: Tea Cozy, created as part of the Codecademy curriculum for the Full-Stack Engineering Path.
-
-This project focuses on building a fictitious tea shop website on my computer. I was provided a design pace and image assets. I used basic HTML and CSS to complete this project. 
+Welcome to the Off-Platform Project: Tea Cozy, created as part of the Codecademy curriculum for the Full-Stack Engineering Path. This project focuses on building a fictitious tea shop website on my computer. I was provided a design spec and image assets. I used basic HTML and CSS to complete this project. 
 There was no single way to complete this project. 
 This is one of the first websites I created.
 
+## Design Spec
+
+https://mikala773.github.io/off-platform-project-tea-cozy/Resources/images/img-tea-cozy-redline.jpg
 
 ## Status
 - Complete
